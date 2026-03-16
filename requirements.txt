@@ -1,0 +1,18 @@
+# Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# Manipulação de Dados e PDF
+pandas
+pypdf
+numpy
+# Orquestração de IA (Agno/Phidata)
+agno
+python-dotenv
+sqlalchemy
+aiosqlite
+
+# Vetores e Embeddings
+openai
+faiss-cpu
