@@ -1,0 +1,16 @@
+.env
+.venv/
+tmp/
+storage/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.idea/
+.vscode/
+Thumbs.db
+Desktop.ini
